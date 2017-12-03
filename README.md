@@ -1,3 +1,11 @@
+This package is from the react-query-params developed by Jeff Butsch.
+
+This version is just sourced from 1.0.7, and modified to fix the IE issue related to urlSearch object throw error when trying to call Symbol.iterator.
+
+The fix use forEach method to return the list of query parameters instead of using iterator.
+
+
+
 # React Query Params
 Easy to use query param support for React.
 
