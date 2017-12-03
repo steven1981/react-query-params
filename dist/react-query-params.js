@@ -1,5 +1,10 @@
 "use strict";
 
+/*
+  Refer to the Copyright from original writter Jeff Butsch
+  This file is updated by Steven Wu to fix an IE issue when retrieve query parameters from URL.
+*/
+
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
