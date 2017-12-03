@@ -4,6 +4,10 @@ This version is just sourced from 1.0.7, and modified to fix the IE issue relate
 
 The fix use forEach method to return the list of query parameters instead of using iterator.
 
+## Installation
+Install with npm:
+
+	npm install https://github.com/yingchangwu/react-query-params
 
 
 # React Query Params
